@@ -1,0 +1,5 @@
+model,WAPE %
+LightGBM P50 (StockSense),35.0
+28-day moving average,40.8
+Same weekday last week,51.1
+Same weekday last year,52.0
